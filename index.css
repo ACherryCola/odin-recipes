@@ -1,0 +1,14 @@
+body {
+    font-family: monospace;
+    background-color: #fff;
+}
+
+.heading {
+    font-size: 34px;
+    text-align: center;
+    color: #333;
+}
+
+.two {
+    color: #04ddb2;
+}
