@@ -1,0 +1,30 @@
+body {
+    font-family: monospace;
+    background-color: #fff;
+}
+
+img {
+    height: auto;
+    width: 350px;
+    
+}
+
+.heading {
+    font-size: 45px;
+    text-align: center;
+    color: #333;
+}
+
+.sub-heading {
+    font-size: 30px;
+    color: #333;
+}
+
+.two {
+    color: #04ddb2;
+}
+
+.list {
+    color: #767676;
+    font-size: 22px;
+}
